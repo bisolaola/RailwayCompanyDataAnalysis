@@ -15,9 +15,9 @@ Customers are happy about their experience with purchasing tickets but this serv
 Customer service is a key factor that drive high satisfaction for the company
 
 # Regression Model
-Overall satisfaction is at the intercept 
-R-square is 24%
-Variables are in binary (1 and 0)
+- Overall satisfaction is at the intercept 
+- R-square is 24%
+- Variables are in binary (1 and 0)
 
 # Dashboard
 ![image](https://github.com/bisolaola/RailwayCompanyDataAnalysis/assets/137617628/aa19ff21-4733-4118-a12b-715c24284a68)
